@@ -1,103 +1,167 @@
-::: {align="center"}
-# Hi, I'm Louey Saidia 👋
+{align="center"}
+# Louey Saidia
 
-### Computer Science Engineering Student \| Artificial Intelligence \| Software Developer
+**Junior Software Engineer · Backend Development · Python · Artificial
+Intelligence**
 
-Building practical software solutions with **Python, AI, web
-technologies, and mobile development**.
+Algeria · [Email](mailto:louey.dev@gmail.com) ·
+[GitHub](https://github.com/loueysaidia)
 
-[![GitHub](https://img.shields.io/badge/GitHub-loueysaidia-181717?style=for-the-badge&logo=github)](https://github.com/loueysaidia)
+Building secure, maintainable backend systems and practical software
+products.
 :::
 
 ------------------------------------------------------------------------
 
-## 👨‍💻 About Me
+## Professional Profile
 
-I'm a **4th-year Computer Science Engineering student**, specializing in
-**Artificial Intelligence** at the University 8 May 1945 Guelma,
-Algeria.
+I am a **4th-year Artificial Intelligence Engineering student** at the
+**University of 08 May 1945, Guelma**, with practical experience
+designing and developing backend applications, REST APIs, and relational
+databases.
 
-I'm interested in developing useful applications, exploring intelligent
-systems, and turning ideas into working projects. I enjoy learning new
-technologies, solving problems, and improving my skills through hands-on
-development.
+My main focus is **backend engineering with Python**, including API
+development, authentication and authorization, database design, and
+application security. I also work with JavaScript and PHP-based
+technologies and have built projects across management systems,
+healthcare, inventory, and secure voting.
 
--   🎓 Computer Science Engineering --- Artificial Intelligence
--   🤖 Interested in Machine Learning, Computer Vision, and AI
--   🌐 Interested in Backend and Full-Stack Web Development
--   📱 Exploring mobile application development with Flutter
--   📚 Always learning and building new things
+I am interested in software engineering, applied AI, distributed
+systems, and cloud-native technologies. I value clear architecture,
+reliable functionality, and continuous learning.
 
-## 🛠️ Technologies & Tools
+## Core Technical Skills
 
-### Programming Languages
+  -----------------------------------------------------------------------
+  Area                                Technologies and Skills
+  ----------------------------------- -----------------------------------
+  **Programming**                     Python, JavaScript, Java, C, Dart,
+                                      PHP
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+  **Backend**                         FastAPI, Django, Express.js,
+                                      Node.js, REST API design
 
-### Web & Backend Development
+  **Databases**                       MySQL, MongoDB, relational schema
+                                      design
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+  **Frontend**                        HTML, CSS, JavaScript
 
-### AI, Data & Machine Learning
+  **Security**                        Authentication, authorization,
+                                      RSA-based encryption, secure
+                                      application design
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat)
+  **Tools**                           Git, GitHub
 
-### Databases & Tools
+  **Additional**                      Web scraping, API integration,
+                                      problem solving
+  -----------------------------------------------------------------------
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## Selected Projects
 
-## 🚀 Featured Projects
+### 1. SmartCabinet --- Medical Clinic Management SaaS
 
-Here are some areas and projects I've worked on:
+**Status:** In Development\
+**Stack:** PHP, Laravel, MySQL
 
--   **Warehouse Administrator** --- An application focused on managing
-    warehouse operations and related data.
--   **Blood Bank** --- A project designed to help organize blood bank
-    information and management.
--   **Study Planner** --- A study-management application concept for
-    organizing subjects, schedules, assignments, and study sessions.
--   **Expense Tracker** --- A personal finance application for recording
-    and managing expenses.
+Designing a multi-module SaaS platform for medical clinic operations.
 
-> Explore my repositories to see the source code, implementation
-> details, and updates.\
-> Add links to your best project repositories here as they become ready.
+-   Developing modules for patient records, doctor profiles, appointment
+    scheduling, and walk-in queue management.
+-   Implementing secure authentication and role-based access control for
+    clinic staff, doctors, and administrators.
+-   Designing a relational database for multi-clinic data,
+    prescriptions, medical documents, invoices, and subscription plans.
+-   Building REST API endpoints for appointments, billing, and
+    notifications, with input validation and error handling.
 
-## 🌱 Currently Learning
+### 2. Secure Vote System
 
--   Machine Learning and practical AI applications
--   Deep Learning and Computer Vision
--   Backend development and API design
--   Flutter and Dart
--   High Performance Computing
+**Stack:** Python, FastAPI, RSA Encryption
 
-## 🤝 Let's Connect
+Developed a secure online voting platform with a focus on vote
+confidentiality and integrity.
 
-I'm interested in collaborating on software development and AI projects,
-learning from other developers, and contributing to meaningful
-open-source work.
+-   Implemented RSA-based encryption to protect voting data.
+-   Built authentication and ballot-management logic to prevent
+    duplicate voting.
+-   Designed encrypted result computation to preserve voter anonymity
+    while supporting verifiable tallying.
+-   Maintained an audit trail for voting operations.
 
--   **GitHub:** [@loueysaidia](https://github.com/loueysaidia)
+### 3. Warehouse Administrator System
+
+**Stack:** Python, Django, MySQL
+
+Built a web application for warehouse inventory and product
+administration.
+
+-   Implemented CRUD operations for stock and product management.
+-   Added administrative user roles.
+-   Designed a relational MySQL schema to manage inventory levels and
+    product information.
+
+### 4. Daycare Management System
+
+**Stack:** Python, FastAPI, MySQL
+
+Developed the backend for a daycare management platform.
+
+-   Managed student records and attendance tracking.
+-   Supported parent communication workflows.
+-   Produced software engineering documentation, including WBS,
+    PERT/GANTT planning, and UML designs.
+
+### 5. Blood Bank Management System
+
+**Stack:** Node.js, Express.js, MySQL
+
+Built a backend application to support blood bank operations.
+
+-   Implemented donor registration and blood inventory tracking.
+-   Supported hospital blood requests.
+-   Designed a relational database for donor records and stock
+    availability.
+
+### 6. Salary Calculator
+
+**Stack:** Python, FastAPI, MySQL
+
+Developed a backend application for employee salary calculation.
+
+-   Implemented automated salary, tax, and deduction calculations.
+-   Generated payroll reports and salary slips.
+-   Used MySQL to manage application data.
+
+## Education
+
+**Engineering Degree --- Artificial Intelligence Specialization**\
+University of 08 May 1945 · Guelma, Algeria\
+**4th Year --- In Progress**
+
+## Areas of Interest
+
+-   Backend and API Engineering
+-   Artificial Intelligence and Machine Learning
+-   Application Security and Cryptography
+-   Database Design
+-   Distributed Systems and Cloud-Native Technologies
+
+## Languages
+
+-   Arabic --- Native
+-   English --- Intermediate
+-   French --- Intermediate
+
+## Contact
+
+I am open to opportunities, technical collaboration, and projects
+related to backend development, Python, and software engineering.
+
+-   **Email:** <louey.dev@gmail.com>
+-   **GitHub:** [github.com/loueysaidia](https://github.com/loueysaidia)
 
 ------------------------------------------------------------------------
 
 ::: {align="center"}
-*"The best way to learn is to build."*
+*Engineering ideas into reliable software.*
 :::
