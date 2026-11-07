@@ -1,4 +1,3 @@
-{align="center"}
 # Louey Saidia
 
 **Junior Software Engineer · Backend Development · Python · Artificial
