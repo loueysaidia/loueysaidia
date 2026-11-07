@@ -1,163 +1,103 @@
-<!-- HERO HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:0f4c75&height=220&section=header&text=Louey%20Saidia&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+::: {align="center"}
+# Hi, I'm Louey Saidia 👋
 
-<!-- TYPING HERO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer;React+%7C+Node.js+%7C+React+Native;Backend+Architect+in+Progress;Building+Scalable+Web+%26+Mobile+Apps" />
-</p>
+### Computer Science Engineering Student \| Artificial Intelligence \| Software Developer
 
----
+Building practical software solutions with **Python, AI, web
+technologies, and mobile development**.
 
-# 💎 About Me
+[![GitHub](https://img.shields.io/badge/GitHub-loueysaidia-181717?style=for-the-badge&logo=github)](https://github.com/loueysaidia)
+:::
 
-<div align="center">
+------------------------------------------------------------------------
 
-### 🚀 Passionate Full-Stack Developer
+## 👨‍💻 About Me
 
-I am a Computer Science Engineering student focused on building **high-performance web and mobile applications**.
+I'm a **4th-year Computer Science Engineering student**, specializing in
+**Artificial Intelligence** at the University 8 May 1945 Guelma,
+Algeria.
 
-I specialize in:
-- ⚛️ Modern Frontend (React)
-- 🧠 Backend Systems (Node.js, Express)
-- 📱 Mobile Apps (React Native)
-- 🗄️ Databases (MongoDB, MySQL)
-- 🔐 Authentication & Secure APIs
+I'm interested in developing useful applications, exploring intelligent
+systems, and turning ideas into working projects. I enjoy learning new
+technologies, solving problems, and improving my skills through hands-on
+development.
 
-</div>
+-   🎓 Computer Science Engineering --- Artificial Intelligence
+-   🤖 Interested in Machine Learning, Computer Vision, and AI
+-   🌐 Interested in Backend and Full-Stack Web Development
+-   📱 Exploring mobile application development with Flutter
+-   📚 Always learning and building new things
 
----
+## 🛠️ Technologies & Tools
 
-# ⚡ Tech Stack (Pro Level)
+### Programming Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,mysql,postgres,redis,docker,git,github,html,css,tailwind,python,django,fastapi" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 
----
+### Web & Backend Development
 
-# 🚀 Featured Projects (Production Style)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-## 🏥 Blood Bank Management System
-> Full-stack healthcare platform
+### AI, Data & Machine Learning
 
-- JWT Authentication
-- Admin Dashboard
-- Role-based Access
-- REST API Architecture
-- MySQL Database
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat)
 
----
+### Databases & Tools
 
-## 📚 Book API Platform
-> Scalable backend system
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- Node.js + Express
-- MongoDB Integration
-- Clean MVC Architecture
-- API Security Layer
+## 🚀 Featured Projects
 
----
+Here are some areas and projects I've worked on:
 
-## 📱 Mobile App (React Native)
-> Cross-platform mobile solution
+-   **Warehouse Administrator** --- An application focused on managing
+    warehouse operations and related data.
+-   **Blood Bank** --- A project designed to help organize blood bank
+    information and management.
+-   **Study Planner** --- A study-management application concept for
+    organizing subjects, schedules, assignments, and study sessions.
+-   **Expense Tracker** --- A personal finance application for recording
+    and managing expenses.
 
-- React Native Navigation
-- API Integration
-- Offline Support
-- Modern UI Design
+> Explore my repositories to see the source code, implementation
+> details, and updates.\
+> Add links to your best project repositories here as they become ready.
 
----
+## 🌱 Currently Learning
 
-## 🌐 Portfolio Website
-> Personal brand website
+-   Machine Learning and practical AI applications
+-   Deep Learning and Computer Vision
+-   Backend development and API design
+-   Flutter and Dart
+-   High Performance Computing
 
-- React.js Frontend
-- Responsive UI/UX
-- Animated Components
-- SEO Optimized
+## 🤝 Let's Connect
 
----
+I'm interested in collaborating on software development and AI projects,
+learning from other developers, and contributing to meaningful
+open-source work.
 
-# 📊 GitHub Analytics Dashboard
+-   **GitHub:** [@loueysaidia](https://github.com/loueysaidia)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+------------------------------------------------------------------------
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🧠 Skills Breakdown
-
-| Category | Skills |
-|----------|--------|
-| Frontend | React, HTML, CSS, Tailwind |
-| Backend | Node.js, Express, FastAPI |
-| Mobile | React Native |
-| Database | MySQL, MongoDB |
-| Tools | Git, GitHub, Docker, Postman |
-
----
-
-# 🏆 Achievements
-
-- ⚡ Built multiple full-stack applications
-- 📱 Mobile apps using React Native
-- 🔐 Secure REST API systems
-- 🧠 Strong DSA & problem solving skills
-- 🚀 Active continuous learning developer
-
----
-
-# 📬 Let's Connect (Hire Me 🚀)
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🔥 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00e5ff"/>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f4c75,100:0f2027&height=120&section=footer"/>
-</p>
+::: {align="center"}
+*"The best way to learn is to build."*
+:::
